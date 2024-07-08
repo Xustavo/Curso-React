@@ -20,6 +20,7 @@ const stages = [
 ]
 
 function App() {
+
   const [gameStage, setGameStage] = useState(stages[0].name)
   const [words] = useState(wordslist)
 
@@ -91,7 +92,7 @@ function App() {
         normalizedLetter,
       ])
     }else {
-      setGuessedLetters((actualWrongLetters) => [
+      setWrongLetters((actualWrongLetters) => [
         ...actualWrongLetters,
         normalizedLetter,
       ])
