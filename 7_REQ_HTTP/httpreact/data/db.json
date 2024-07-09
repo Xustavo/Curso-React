@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "e690",
+      "name": "casaco",
+      "price": "115.9"
+    },
+    {
+      "id": "43e3",
+      "name": "monitor",
+      "price": "1200"
+    },
+    {
+      "id": "71e0",
+      "name": "garrafa",
+      "price": "50"
+    },
+    {
+      "id": "91f9",
+      "name": "bb8",
+      "price": "200"
+    }
+  ]
+}
