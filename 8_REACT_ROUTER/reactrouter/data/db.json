@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "casaco",
+        "price": "115.9"
+      },
+      {
+        "id": "2",
+        "name": "monitor",
+        "price": "1200"
+      },
+      {
+        "id": "3",
+        "name": "garrafa",
+        "price": "50"
+      }
+    ]
+  }
